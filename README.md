@@ -6,7 +6,7 @@ Open Source St. Louis Game Dev Comunity Project 3D Summer 2015
 *Determine some possible ways to go that we can decide on next time
 *Demonstrate how people can fork the project next time
 
-#7/13/2015 Meeting Goals
+##7/13/2015 Meeting Goals
 *Kick of project
 *Establish genre
 *make technology decision
