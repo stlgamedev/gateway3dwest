@@ -1,12 +1,17 @@
 # gateway3dwest
 Open Source St. Louis Game Dev Comunity Project 3D Summer 2015
 
-#Goals for 8/3/2015
-*Get something moving when you press buttons
-*Determine some possible ways to go that we can decide on next time
-*Demonstrate how people can fork the project next time
+# Controlls
+*W-A-S-D movement
+*L-Shift sprint
+*Space jump
 
-##7/13/2015 Meeting Goals
-*Kick of project
-*Establish genre
-*make technology decision
+#Goals for 8/19/2015
+* Add support for n number of local players
+* Add player Stats (Health, etc) (Current version has this, feel free to expand/improve)
+* Add a simple HUD for Stats (Current version has this, feel free to expand/improve)
+* Add something to interact with that can damage you
+* Experiment with TileMaster - Available for free on Unity Asset Store by Randy from the community
+* Possibly: discuss communication tools and feature tracking alternatives
+
+### See wiki for more details
