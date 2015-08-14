@@ -13,7 +13,9 @@ public class Character : MonoBehaviour {
 	protected Vector3 cameraRotation;
 	public float jumpSpeed = 10f;
 	public float gravity = 9.8f;
+	public Animator playerAnimator;
 	protected bool isSprinting = false;
+	//private bool isStriking = false;
 	// Use this for initialization
 	void Start () {
 	
@@ -22,10 +24,25 @@ public class Character : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		Movement ();
+		Actions ();
+		/*if (Input.GetMouseButtonDown(0)) {
+			playerAnimator.SetTrigger("isStriking");
+		}*/
+	}
+	private void Actions(){
+		playerAnimator.SetFloat ("isStriking", Input.GetAxis("Strike"));
+		/*if (Input.GetAxis ("Strike") > 0) {
+			playerAnimator.SetBool ("isStriking", true);
+			isStriking = true;
+		} 
+		if(isStriking){
+			playerAnimator.SetBool("isStriking", false);
+			isStriking = false;
+		}*/
 	}
 	private void Movement(){
 		//sprint
-		if (Input.GetKeyDown (KeyCode.LeftShift) && Input.GetAxis("Forward") > 0 && !isSprinting) {
+		if (Input.GetAxis ("Sprint") > 0 && Input.GetAxis("Forward") > 0 && !isSprinting) {
 			speed += sprintSpeed;
 			isSprinting = true;
 		}
