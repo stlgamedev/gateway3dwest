@@ -2,9 +2,10 @@
 Open Source St. Louis Game Dev Comunity Project 3D Summer 2015
 
 # Controlls
-*W-A-S-D movement
-*L-Shift sprint
-*Space jump
+* W-A-S-D movement
+* L-Shift sprint
+* Space jump
+* left-click strike (not currently implemented)
 
 #Goals for 8/19/2015
 * Add support for n number of local players
