@@ -11,6 +11,7 @@ public class Stats : MonoBehaviour {
 	public float mana = 100f;
 	public float manaRegen = 5f;
 	public float maxMana = 100f;
+	public GameObject Character;
 
 	// Use this for initialization
 	void Start () {
@@ -36,8 +37,9 @@ public class Stats : MonoBehaviour {
 		if (health > maxHealth) {
 			health = maxHealth;
 		}
-		if (health < 0f) {
+		if (health <= 0f) {
 			health = 0f;
+			Destroy(Character);
 			//death();
 		}
 	}
