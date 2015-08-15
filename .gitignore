@@ -1,4 +1,5 @@
 Temp/UnityLockfile
+<<<<<<< .merge_file_a54076
 Library/CrashedAssetImports.txt
 Temp/UnityTempFile-c9a4e318ac14d174b80718f547fb4ae2
 Temp/UnityTempFile-db4a3f26e0a5c3f489dbfd82c462600b
@@ -12,3 +13,5 @@ Library/ShaderCache/5/5447c0a9c5ef8b36e3ab738d030f1c40.bin
 Library/ShaderCache/d/d152aab1018be9558cb4d52f228fa1f8.bin
 Library/ShaderCache/d/da5682b73f0927da463555e89b270c4b.bin
 Library/ShaderCache/f/ff5f8c5a8d080d7148b58e27fb66b793.bin
+=======
+>>>>>>> .merge_file_a54132
