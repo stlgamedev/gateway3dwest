@@ -3,11 +3,40 @@ guid: 55e52af76d44a7b4b81951cd0d0edb97
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pirate_2_barrel_pistol_Lhammer
+    100004: Pirate_2_barrel_pistol_Lpeen
+    100006: Pirate_2_barrel_pistol_Rhammer
+    100008: Pirate_2_barrel_pistol_Rpeen
+    400000: //RootNode
+    400002: Pirate_2_barrel_pistol_Lhammer
+    400004: Pirate_2_barrel_pistol_Lpeen
+    400006: Pirate_2_barrel_pistol_Rhammer
+    400008: Pirate_2_barrel_pistol_Rpeen
+    2300000: //RootNode
+    2300002: Pirate_2_barrel_pistol_Lhammer
+    2300004: Pirate_2_barrel_pistol_Lpeen
+    2300006: Pirate_2_barrel_pistol_Rhammer
+    2300008: Pirate_2_barrel_pistol_Rpeen
+    3300000: //RootNode
+    3300002: Pirate_2_barrel_pistol_Lhammer
+    3300004: Pirate_2_barrel_pistol_Lpeen
+    3300006: Pirate_2_barrel_pistol_Rhammer
+    3300008: Pirate_2_barrel_pistol_Rpeen
     4300000: Pirate_2_barrel_pistol
     4300002: Pirate_2_barrel_pistol_Rpeen
     4300004: Pirate_2_barrel_pistol_Lpeen
     4300006: Pirate_2_barrel_pistol_Rhammer
     4300008: Pirate_2_barrel_pistol_Lhammer
+    7400000: idle
+    7400002: charging_right
+    7400004: idle_charged_right
+    7400006: charging_left
+    7400008: idle_charged
+    7400010: shot_right
+    7400012: idel_charged_left
+    7400014: shot_left
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
