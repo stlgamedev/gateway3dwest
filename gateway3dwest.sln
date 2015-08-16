@@ -7,6 +7,10 @@ Project("{87D74444-2B68-AE27-3CF7-DD80F9578F8E}") = "gateway3dwest", "Assembly-C
 EndProject
 Project("{87D74444-2B68-AE27-3CF7-DD80F9578F8E}") = "gateway3dwest", "Assembly-CSharp-Editor.csproj", "{69BFEDF7-9174-65A2-A964-7A464B5EFB1B}"
 EndProject
+Project("{87D74444-2B68-AE27-3CF7-DD80F9578F8E}") = "gateway3dwest", "Assembly-Boo-Editor.booproj", "{1FB73636-A81F-D3C5-8052-5BA113DBE877}"
+EndProject
+Project("{87D74444-2B68-AE27-3CF7-DD80F9578F8E}") = "gateway3dwest", "Assembly-UnityScript-Editor.unityproj", "{C2F66150-14FA-870F-EB44-4C00C4D73CE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +29,19 @@ Global
 		{69BFEDF7-9174-65A2-A964-7A464B5EFB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69BFEDF7-9174-65A2-A964-7A464B5EFB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69BFEDF7-9174-65A2-A964-7A464B5EFB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB73636-A81F-D3C5-8052-5BA113DBE877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB73636-A81F-D3C5-8052-5BA113DBE877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB73636-A81F-D3C5-8052-5BA113DBE877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB73636-A81F-D3C5-8052-5BA113DBE877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F66150-14FA-870F-EB44-4C00C4D73CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F66150-14FA-870F-EB44-4C00C4D73CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F66150-14FA-870F-EB44-4C00C4D73CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F66150-14FA-870F-EB44-4C00C4D73CE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-				GlobalSection(MonoDevelopProperties) = preSolution
+						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
