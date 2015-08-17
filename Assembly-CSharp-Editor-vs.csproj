@@ -79,6 +79,18 @@
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
+ <Reference Include="RAIN">
+ <HintPath>C:/Users/ZFalconer/Documents/gateway3dwest/Assets/RAIN/RAIN.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINMetaform">
+ <HintPath>C:/Users/ZFalconer/Documents/gateway3dwest/Assets/RAIN/RAINMetaform.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINEditor">
+ <HintPath>C:/Users/ZFalconer/Documents/gateway3dwest/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINMetaformEditor">
+ <HintPath>C:/Users/ZFalconer/Documents/gateway3dwest/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -114,18 +126,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="RAINMetaformEditor">
- <HintPath>C:/Users/Matthew/Documents/gateway3dwest/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
- </Reference>
- <Reference Include="RAINMetaform">
- <HintPath>C:/Users/Matthew/Documents/gateway3dwest/Assets/RAIN/RAINMetaform.dll</HintPath>
- </Reference>
- <Reference Include="RAIN">
- <HintPath>C:/Users/Matthew/Documents/gateway3dwest/Assets/RAIN/RAIN.dll</HintPath>
- </Reference>
- <Reference Include="RAINEditor">
- <HintPath>C:/Users/Matthew/Documents/gateway3dwest/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
